@@ -1,0 +1,126 @@
+text,label
+"I feel amazing today! Everything is going perfectly.",happiness
+"I'm so excited to start my new job tomorrow!",happiness
+"Today was such a beautiful day, I can’t stop smiling.",happiness
+"My best friend surprised me with a gift and it made my day.",happiness
+"I passed my exam! I’m so happy and relieved.",happiness
+"I achieved my goal after so much hard work. Feeling proud!",happiness
+"Spent time with family today, feeling warm and joyful.",happiness
+"This is the best news I’ve heard all week!",happiness
+"I got promoted at work, I’m thrilled!",happiness
+"I’m laughing so much today, everything feels funny and bright.",happiness
+"I had the most peaceful walk this afternoon. Pure happiness.",happiness
+"Feeling blessed and grateful for everything I have.",happiness
+"My favorite song came on and instantly lifted my mood!",happiness
+"The weather is perfect today, I feel so alive!",happiness
+"I woke up feeling fresh and positive.",happiness
+"Just finished a great workout, I feel strong and happy!",happiness
+"Had an amazing conversation today, made me really happy.",happiness
+"Everything is finally falling into place. I’m so happy.",happiness
+"I received a lovely message that brightened my whole day.",happiness
+"Life feels good today, nothing to complain about!",happiness
+
+"I feel so tired and empty inside.",sadness
+"I miss my old friends, everything feels different now.",sadness
+"I can’t stop crying, my heart feels heavy.",sadness
+"Today was such a bad day, I feel completely broken.",sadness
+"I feel lonely even when I’m surrounded by people.",sadness
+"I lost something important and it hurts so much.",sadness
+"Why does everything feel so difficult lately?",sadness
+"No matter how hard I try, things just don’t get better.",sadness
+"I feel left out and forgotten.",sadness
+"I can’t focus because my mind feels sad and overwhelmed.",sadness
+"My confidence is shattered right now.",sadness
+"I just want some peace, everything feels painful.",sadness
+"I feel hopeless about the future.",sadness
+"Nothing makes me happy anymore.",sadness
+"I miss how life used to be.",sadness
+"I feel like I disappointed everyone today.",sadness
+"My heart feels so heavy, I don’t know why.",sadness
+"This sadness is consuming all my energy.",sadness
+"I’m emotionally drained and exhausted.",sadness
+"I feel like crying for no reason.",sadness
+
+"I am so angry right now, this is unacceptable!",anger
+"Why do people always irritate me like this?",anger
+"I can’t believe they treated me that way!",anger
+"This situation is so frustrating, I'm furious!",anger
+"My patience has completely run out!",anger
+"I am really annoyed and tired of all this nonsense.",anger
+"Everything is getting on my nerves today!",anger
+"I cannot tolerate this behavior anymore!",anger
+"I’m mad because things didn’t go as planned.",anger
+"I feel like yelling at someone right now.",anger
+"Nothing is working properly and it’s making me angry.",anger
+"I hate when people lie to me.",anger
+"This mistake ruined everything—I’m so angry!",anger
+"My day was ruined because of someone's carelessness.",anger
+"I am extremely irritated, leave me alone!",anger
+"This is infuriating, I can’t believe it!",anger
+"I feel disrespected and it makes me angry.",anger
+"I’m done being patient, I’ve had enough!",anger
+"Stop bothering me! I’m really angry!",anger
+"This argument made me so mad!",anger
+
+"I’m scared about what might happen next.",fear
+"I feel anxious and I can’t calm down.",fear
+"I’m worried something bad is going to happen.",fear
+"My heart is racing, I’m so afraid.",fear
+"I don’t feel safe right now.",fear
+"I am nervous about tomorrow’s meeting.",fear
+"I’m afraid of making the wrong decision.",fear
+"I feel like something is going wrong.",fear
+"This situation gives me so much anxiety.",fear
+"I’m worried I’ll fail and disappoint everyone.",fear
+"I feel uneasy and I don’t know why.",fear
+"I’m terrified of losing everything.",fear
+"This place gives me a bad feeling.",fear
+"My hands are shaking, I’m scared.",fear
+"I feel threatened and uncomfortable.",fear
+"I keep imagining worst-case scenarios.",fear
+"I don’t trust this situation at all.",fear
+"I’m scared to talk about my feelings.",fear
+"I’m nervous and stressed out about everything.",fear
+"I feel fear taking over my mind.",fear
+
+"Wow! I didn’t expect that at all!",surprise
+"That was totally unexpected!",surprise
+"I can’t believe this just happened!",surprise
+"This shocked me completely!",surprise
+"I’m amazed by how fast that happened!",surprise
+"That news came out of nowhere!",surprise
+"Such a pleasant surprise, I’m speechless!",surprise
+"I never imagined this could happen!",surprise
+"This result is unbelievable!",surprise
+"I’m genuinely surprised right now!",surprise
+"That twist completely shocked me!",surprise
+"I was not prepared for that reaction.",surprise
+"This is surprising in a good way!",surprise
+"What a shocking turn of events!",surprise
+"That announcement caught everyone off guard!",surprise
+"I didn’t expect them to say that!",surprise
+"That change came suddenly!",surprise
+"This moment surprised me so much!",surprise
+"I’m amazed and surprised at the same time!",surprise
+"That was an unexpected gift!",surprise
+
+"It’s an ordinary day, nothing special.",neutral
+"I don’t feel anything in particular right now.",neutral
+"Everything is normal, nothing unusual.",neutral
+"I am neither happy nor sad today.",neutral
+"I feel calm and relaxed, just normal.",neutral
+"My mood is neutral right now.",neutral
+"I don’t have any strong feelings about this.",neutral
+"I’m okay. Not great, not bad.",neutral
+"It’s just a regular day.",neutral
+"I feel nothing much, just fine.",neutral
+"I’m simply existing, nothing more.",neutral
+"I don’t care much about the situation.",neutral
+"I feel indifferent about this.",neutral
+"Nothing really affects me today.",neutral
+"My thoughts are neutral and stable.",neutral
+"I have no emotional reaction to this.",neutral
+"I don’t feel strongly one way or another.",neutral
+"I’m calm, nothing major happening.",neutral
+"It’s a plain and simple day.",neutral
+"I’m emotionally stable right now.",neutral
